@@ -1,0 +1,8 @@
+/hardware/*-backups
+/hardware/gerbers
+/hardware/*.bak
+/cpld/.qsys_edit
+/cpld/a.out
+/cpld/output_files
+/cpld/simulation
+/cpld/test
